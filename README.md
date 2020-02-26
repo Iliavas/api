@@ -8,3 +8,5 @@
 затем   MainClass main = new MainClass();
         main.add(333, Types_class.Engilsh); - добавление кабинета (Types_class - перечисление см api)
 main.filter(Types_class.English) - фильтрация кабинетов возвращает тип List<cab>
+
+P.S. ТИПЫ КАБИНЕТОВ ВПИСЫВАТЬ В Type_cabs
